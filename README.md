@@ -18,10 +18,8 @@ docker-compose build && docker-compose up
 python3 -m pip install -r requirements.txt && python3 client.py
 ```
 
-Пример игры
-![img_1.png](img_1.png)
-
-Убили мафию в первом раунде и выиграли 
+Пример игры:
+Все игроки реальные. Убили мафию в первом раунде и выиграли 
 ![img_2.png](img_2.png)
 
 Все игроки боты - убили мафию в первом раунде (голосуют рандомно)
