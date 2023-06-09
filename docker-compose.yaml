@@ -1,0 +1,6 @@
+version: "3"
+services:
+  server:
+    image: starboy369/mafia_server
+    ports:
+      - "8080:8080/tcp"
